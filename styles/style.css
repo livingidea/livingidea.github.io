@@ -1,0 +1,44 @@
+html {
+	font-size: 14px;
+	font-family: 'Rubik', sans-serif;
+}
+
+p, li {
+	font-size: 14px;
+	line-height: 1.5;
+	letter-spacing: 0.2px;
+}
+
+html {
+	background-color: #F2F2F2;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #ffffff;
+	padding: 30px 30px 30px 30px;
+	border: 1px;
+}
+
+h1 {
+	font-size: 32px;
+	margin: 0;
+	padding; 20px 0;
+	color: #333333;
+}
+
+img {
+	display: block;
+	padding: 15px 5px 15px 5px;
+	width: 100px;
+}
+
+button {
+    display: block;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    border: 1px;
+    background-color: #e8e8e2;
+    border-radius: 5px;
+}
